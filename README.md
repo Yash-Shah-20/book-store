@@ -1,0 +1,1 @@
+# This is a simple book store application developed using .NET and react.js
